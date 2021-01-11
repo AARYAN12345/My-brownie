@@ -1,4 +1,4 @@
-# directions
+# Recipe
 
 Step 1
 
